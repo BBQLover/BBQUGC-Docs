@@ -1,5 +1,5 @@
 ©︎ BBQ大好き All Rights Reserved.
-<!-- source-revision: 4 -->
+<!-- source-revision: 5 -->
 
 # UGC Creator Agreement
 
@@ -12,7 +12,7 @@ For this agreement:
 - **"BBQ"** means BBQ大好き and its authorized operators.
 - **"Creator"** means an individual or entity that creates, tests, submits, publishes, or distributes UGC.
 - **"End User"** means a person or entity that installs, enables, executes, or otherwise uses UGC.
-- **"Creator Code"** means source code, object code, scripts, binaries, plugins, modules, libraries, executable logic, or other programmable components supplied, embedded, invoked, or distributed by a Creator in connection with UGC.
+- **"UGC Code"** means all code, scripts, plugins, libraries, executable logic, and other programmable components that a Creator includes in, distributes with, or requires for UGC.
 - **"BBQ Materials"** means code, systems, documentation, artwork, characters, audio, interface assets, names, Creator Tools, and other materials owned or licensed by BBQ, excluding Creator UGC.
 - **"BBQ Brand Features"** means BBQ names, logos, trademarks, trade dress, characters, key art, icons, and other source-identifying brand assets.
 - **"Designated Distribution Channel"** means Steam Workshop or another distribution service expressly designated by BBQ for BBQ Player UGC.
@@ -25,7 +25,7 @@ This agreement is a project usage policy, not legal advice. Applicable law and a
 
 ## 1. Your creative rights
 
-You retain the rights you lawfully own in your original UGC. This agreement does not transfer ownership of your original artwork, writing, music, Creator Code, or other original contributions to BBQ.
+You retain the rights you lawfully own in your original UGC. This agreement does not transfer ownership of your original artwork, writing, music, UGC Code, or other original contributions to BBQ.
 
 You must own or have sufficient permission for everything you include. You are responsible for licenses, credits, privacy and publicity permissions, open-source obligations, and any other third-party requirements. A platform may require separate rights to host or distribute your UGC under its own terms.
 
@@ -91,15 +91,15 @@ UGC and creator activity must comply with applicable law and platform rules. You
 - collects, transmits, or exposes personal or device data without informed permission and a lawful basis; or
 - misrepresents what the UGC does, conceals material behavior, or creates unreasonable security or stability risks.
 
-## 7. Creator Code and technical responsibility
+## 7. Code and Scripts in Your UGC
 
-Use Creator Code only where the supported Creator workflow expressly permits it. You are solely responsible for its design, security, testing, dependencies, network activity, data access, performance, compatibility, updates, and behavior.
+You may include or use UGC Code only where the supported UGC workflow expressly permits it. You are responsible for its security, testing, dependencies, network activity, data access, performance, compatibility, maintenance, and behavior.
 
-You are responsible for every consequence arising from or relating to your Creator Code, including crashes, corruption, data loss, security incidents, unauthorized access, service disruption, device damage, financial loss, and harm to End Users or third parties. Test in a controlled environment and disclose material permissions, network access, data collection, dependencies, and known risks.
+You are responsible for loss or harm caused by UGC Code you include or distribute, including crashes, data corruption, data loss, security incidents, unauthorized access, service disruption, device damage, financial loss, and harm to End Users or third parties. You must test UGC Code in a controlled environment and clearly disclose material permissions, network access, data collection, dependencies, and known risks.
 
 ## 8. Responsibility, claims, and damages
 
-You are fully responsible for your UGC, your conduct, and all consequences arising from creating, testing, publishing, distributing, installing, updating, or supporting it. To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless the BBQ Parties from claims, losses, liabilities, damages, judgments, penalties, costs, and reasonable legal fees arising from or relating to your UGC, Creator Code, breach of this agreement, or violation of another person's rights.
+You are fully responsible for your UGC, your conduct, and all consequences arising from creating, testing, publishing, distributing, installing, updating, or supporting it. To the maximum extent permitted by law, you agree to defend, indemnify, and hold harmless the BBQ Parties from claims, losses, liabilities, damages, judgments, penalties, costs, and reasonable legal fees arising from or relating to your UGC, UGC Code, breach of this agreement, or violation of another person's rights.
 
 Anyone who creates, installs, enables, executes, or otherwise uses UGC does so at their own risk and is responsible for the resulting consequences. This assumption of risk does not reduce the Creator's responsibilities, excuse a breach of this agreement, or exclude liability that cannot legally be excluded.
 
