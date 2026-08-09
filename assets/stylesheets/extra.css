@@ -1,0 +1,157 @@
+/* ©︎ BBQ大好き All Rights Reserved. */
+
+:root {
+  --bbq-ink: #3f2a36;
+  --bbq-muted: #7a6470;
+  --bbq-surface: #fff8fc;
+  --bbq-surface-raised: #fbeaf3;
+  --bbq-line: #e9cad9;
+  --bbq-accent: #d95796;
+  --bbq-accent-deep: #a63b72;
+  --bbq-focus: #6f50c9;
+}
+
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: var(--bbq-surface);
+  --md-default-fg-color: var(--bbq-ink);
+  --md-default-fg-color--light: var(--bbq-muted);
+  --md-primary-fg-color: #8f3f68;
+  --md-primary-bg-color: #fff4fa;
+  --md-accent-fg-color: var(--bbq-accent-deep);
+  --md-code-bg-color: #f7e7f0;
+  --md-code-fg-color: #49303f;
+}
+
+.md-header {
+  background: linear-gradient(115deg, #71324f 0%, #b84d7c 62%, #d86b9f 100%);
+  box-shadow: 0 0.15rem 0.8rem rgb(113 50 79 / 20%);
+}
+
+.md-tabs {
+  background-color: #873b61;
+}
+
+.md-main__inner {
+  margin-top: 1rem;
+}
+
+.md-content__inner {
+  padding-bottom: 3rem;
+}
+
+.md-content h1 {
+  color: #4a2b3c;
+  font-weight: 760;
+  letter-spacing: -0.025em;
+}
+
+.md-content h2 {
+  color: #713a57;
+  font-weight: 700;
+}
+
+.md-content a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+.md-content a:focus-visible,
+.md-header a:focus-visible,
+.md-nav a:focus-visible {
+  outline: 0.16rem solid var(--bbq-focus);
+  outline-offset: 0.14rem;
+  border-radius: 0.12rem;
+}
+
+.hero {
+  padding: clamp(1.4rem, 4vw, 3rem);
+  margin: 0 0 1.8rem;
+  border: 1px solid var(--bbq-line);
+  border-radius: 1rem;
+  background:
+    linear-gradient(140deg, rgb(255 250 253 / 96%), rgb(249 225 239 / 92%)),
+    var(--bbq-surface-raised);
+  box-shadow: 0 1rem 2.8rem rgb(128 55 91 / 11%);
+}
+
+.hero p:first-child {
+  margin-top: 0;
+  color: var(--bbq-accent-deep);
+  font-size: 0.72rem;
+  font-weight: 750;
+  text-transform: uppercase;
+}
+
+.hero p:last-child {
+  margin-bottom: 0;
+  max-width: 44rem;
+  color: var(--bbq-muted);
+  font-size: 1.02rem;
+}
+
+.guide-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 13rem), 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0 2rem;
+}
+
+.guide-card {
+  min-height: 8rem;
+  padding: 1rem 1.05rem;
+  border: 1px solid var(--bbq-line);
+  border-radius: 0.75rem;
+  background: rgb(255 250 253 / 78%);
+  transition: border-color 150ms ease, transform 150ms ease, box-shadow 150ms ease;
+}
+
+.guide-card:hover {
+  border-color: #d78aac;
+  transform: translateY(-0.08rem);
+  box-shadow: 0 0.45rem 1.3rem rgb(128 55 91 / 10%);
+}
+
+.guide-card h3 {
+  margin: 0 0 0.35rem;
+  color: #6b3652;
+}
+
+.guide-card p {
+  margin: 0;
+  color: var(--bbq-muted);
+}
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--bbq-line);
+  border-radius: 0.5rem;
+  box-shadow: none;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: #f2dce8;
+  color: #593246;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 0.55rem;
+  box-shadow: 0 0.35rem 1.1rem rgb(128 55 91 / 8%);
+}
+
+.md-typeset .admonition.warning {
+  border-color: var(--bbq-accent);
+}
+
+.md-typeset .warning > .admonition-title {
+  background-color: rgb(217 87 150 / 14%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

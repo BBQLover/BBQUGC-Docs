@@ -1,0 +1,5 @@
+# ©︎ BBQ大好き All Rights Reserved.
+.venv/
+__pycache__/
+.build/
+site/

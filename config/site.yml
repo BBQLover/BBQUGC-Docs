@@ -1,0 +1,105 @@
+# ©︎ BBQ大好き All Rights Reserved.
+domain: ugc.bbqdaisuki.moe
+default_locale: en
+copyright: ©︎ BBQ大好き All Rights Reserved.
+locales:
+  en:
+    path: ""
+    html_language: en
+    theme_language: en
+    search_language: en
+    label: English
+    site_name: BBQ UGC Creator Guide
+    description: Create, build, test, and share content for BBQ Player.
+    nav:
+      Home: index.md
+      UGC workflow:
+        Getting started: getting-started.md
+        Metadata and resources: metadata-resources.md
+        Author content: author-content.md
+        Build and local test: build-local-test.md
+        Workshop: workshop.md
+      UI packages:
+        Create the root: create-root.md
+        Root lifecycle: lifecycle.md
+        UI APIs: apis.md
+        Register the package: register-package.md
+        Test the UI: test-release.md
+      Reference:
+        Creator agreement: agreement.md
+        Troubleshooting: troubleshooting.md
+  ja:
+    path: ja
+    html_language: ja
+    theme_language: ja
+    search_language: ja
+    label: 日本語
+    site_name: BBQ UGC クリエイターガイド
+    description: BBQ Player 向けコンテンツの作成、ビルド、テスト、共有。
+    nav:
+      ホーム: index.md
+      UGC ワークフロー:
+        はじめに: getting-started.md
+        メタデータとリソース: metadata-resources.md
+        コンテンツ制作: author-content.md
+        ビルドとローカルテスト: build-local-test.md
+        Workshop: workshop.md
+      UI パッケージ:
+        ルート UI の作成: create-root.md
+        ルートのライフサイクル: lifecycle.md
+        UI API: apis.md
+        パッケージへの登録: register-package.md
+        UI のテスト: test-release.md
+      リファレンス:
+        クリエイター規約: agreement.md
+        トラブルシューティング: troubleshooting.md
+  zhs:
+    path: zhs
+    html_language: zh-Hans
+    theme_language: zh
+    search_language: zh
+    label: 简体中文
+    site_name: BBQ UGC 创作者指南
+    description: 为 BBQ Player 创建、构建、测试和分享内容。
+    nav:
+      首页: index.md
+      UGC 工作流程:
+        开始使用: getting-started.md
+        元数据与资源: metadata-resources.md
+        制作内容: author-content.md
+        构建与本地测试: build-local-test.md
+        Workshop: workshop.md
+      UI 包:
+        创建根界面: create-root.md
+        根界面生命周期: lifecycle.md
+        UI API: apis.md
+        注册包: register-package.md
+        测试 UI: test-release.md
+      参考:
+        创作者协议: agreement.md
+        故障排除: troubleshooting.md
+  zht:
+    path: zht
+    html_language: zh-Hant
+    theme_language: zh-Hant
+    search_language: zh
+    label: 繁體中文
+    site_name: BBQ UGC 創作者指南
+    description: 為 BBQ Player 建立、建置、測試及分享內容。
+    nav:
+      首頁: index.md
+      UGC 工作流程:
+        開始使用: getting-started.md
+        中繼資料與資源: metadata-resources.md
+        製作內容: author-content.md
+        建置與本機測試: build-local-test.md
+        Workshop: workshop.md
+      UI 套件:
+        建立根介面: create-root.md
+        根介面生命週期: lifecycle.md
+        UI API: apis.md
+        註冊套件: register-package.md
+        測試 UI: test-release.md
+      參考:
+        創作者協議: agreement.md
+        疑難排解: troubleshooting.md
