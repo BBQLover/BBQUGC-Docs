@@ -1,12 +1,12 @@
 ©︎ BBQ大好き All Rights Reserved.
-<!-- source-revision: 2 -->
+<!-- source-revision: 3 -->
 
 # Workshop
 
 Keep the Workshop item private until the downloaded copy passes testing. Steam must be running with the account that owns the item, and first-time creators may need to accept the Workshop agreement.
 
 !!! warning "Distribution terms"
-    Before uploading, review and accept the [Steam Workshop Legal Agreement](https://steamcommunity.com/workshop/workshoplegalagreement/?appid=3111940), the [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/), and the [UGC Creator Agreement](agreement.md). Submitting through Workshop grants the Project Owner the non-exclusive official-distribution license described in the Creator Agreement and confirms your rights warranty.
+    Before uploading, review and accept the [Steam Workshop Legal Agreement](https://steamcommunity.com/workshop/workshoplegalagreement/?appid=3111940), the [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/), and the [UGC Creator Agreement](agreement.md). Submitting through Workshop grants BBQ the non-exclusive license for Designated Distribution Channels described in the Creator Agreement and confirms your rights warranty.
 
 ## Create and upload
 

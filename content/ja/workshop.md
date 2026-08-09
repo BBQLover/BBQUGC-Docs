@@ -1,12 +1,12 @@
 ©︎ BBQ大好き All Rights Reserved.
-<!-- source-revision: 2 -->
+<!-- source-revision: 3 -->
 
 # Workshop
 
 ダウンロード版のテストが完了するまでアイテムを非公開にします。所有アカウントで Steam を実行し、初回は Workshop 規約への同意が必要な場合があります。
 
 !!! warning "配信規約"
-    アップロード前に、[Steam Workshop Legal Agreement](https://steamcommunity.com/workshop/workshoplegalagreement/?appid=3111940)、[Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/)、[UGC クリエイター規約](agreement.md)を確認し、同意してください。Workshop への提出により、クリエイター規約に定める非独占的な公式配信ライセンスをプロジェクト所有者へ付与し、権利保証を確認します。
+    アップロード前に、[Steam Workshop Legal Agreement](https://steamcommunity.com/workshop/workshoplegalagreement/?appid=3111940)、[Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/)、[UGC クリエイター規約](agreement.md)を確認し、同意してください。Workshop への提出により、クリエイター規約に定める指定配信経路向けの非独占的ライセンスを BBQ へ付与し、権利保証を確認します。
 
 ## 作成してアップロードする
 

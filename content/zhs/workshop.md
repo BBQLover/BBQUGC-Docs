@@ -1,12 +1,12 @@
 ©︎ BBQ大好き All Rights Reserved.
-<!-- source-revision: 2 -->
+<!-- source-revision: 3 -->
 
 # Workshop
 
-在下载版本通过测试前，请将 Workshop 项目保持为私有。Steam 必须使用项目所有者账户运行；首次创建者可能需要接受 Workshop 协议。
+在下载版本通过测试前，请将 Workshop 项目保持为私有。Steam 必须使用拥有该 Workshop 项目的账户运行；首次创建者可能需要接受 Workshop 协议。
 
 !!! warning "分发条款"
-    上传前，请阅读并接受 [Steam Workshop 法律协议](https://steamcommunity.com/workshop/workshoplegalagreement/?appid=3111940)、[Steam 订户协议](https://store.steampowered.com/subscriber_agreement/)和 [UGC 创作者协议](agreement.md)。通过 Workshop 提交内容，即表示你向项目所有者授予创作者协议所述的非独占官方分发许可，并确认你的权利保证。
+    上传前，请阅读并接受 [Steam Workshop 法律协议](https://steamcommunity.com/workshop/workshoplegalagreement/?appid=3111940)、[Steam 订户协议](https://store.steampowered.com/subscriber_agreement/)和 [UGC 创作者协议](agreement.md)。通过 Workshop 提交内容，即表示你向 BBQ 授予创作者协议所述的指定分发渠道非独占许可，并确认你的权利保证。
 
 ## 创建并上传
 
